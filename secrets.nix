@@ -2,7 +2,7 @@ let
   riadh =
     "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJWD9cggIIfWOBaavJbmbWxrs9Ynol40ZWc02FWsXPia";
   nixos =
-    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPudRjbKo8vWXtyIQC91GyCDQKdRlIrUpV7VkgbETa6Y";
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMZY77JiUx1TfdzsflSvdGN8TP+5w5zahWlt7Ea6jOxp";
   users = [ riadh nixos ];
   systems = [ ];
 in {
